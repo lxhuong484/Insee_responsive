@@ -7,6 +7,17 @@
     .header {
         height: var(--header-height);
     }
+    .slider__content{
+        right: unset;
+        width: 100%;
+    }
+    .slider__heading{
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+    .slider__btn{   
+        margin-top: 20px;
+    }
    
 }
 
